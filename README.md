@@ -13,6 +13,7 @@ If you would just like to access the the files here is the Github Repo : https:/
 4. My Projects in C and Assembly(MIPS) : [In the repo 'Intro to Computer Systems'](https://github.com/AbelPPhilip/Computer-Systems)
 5. My Projects in Ruby, OCaml, Rust : [In the repo 'Organization of Programming Languages'](https://github.com/AbelPPhilip/Organization-of-Programming-Languages)
 7. My Data structure Implementations:  https://github.com/AbelPPhilip/DataStructure-Implementation
+8. A Machine Learning Model (Random Forest Tree) that predicts wether a movie would be based on a success or bust based on the various factors: 
 
 If you have any other questions or concerns please don't hesitate to contact me at abelphilip.philip@gmail.com 
 
